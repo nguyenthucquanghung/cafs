@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 scraper/scraper/crawled_data
+
+.idea/
